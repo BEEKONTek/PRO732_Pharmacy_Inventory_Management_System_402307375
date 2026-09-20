@@ -1,0 +1,17 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>./pims.jar</jar>
+  <outfile>./dist/402307375_BotlhaleMaruma_pims.exe</outfile>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://adoptium.net</downloadUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <jre>
+    <path></path>
+    <minVersion>1.8.0</minVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64</runtimeBits>
+  </jre>
+</launch4jConfig>

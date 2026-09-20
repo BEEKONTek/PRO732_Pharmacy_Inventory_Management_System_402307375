@@ -1,0 +1,32 @@
+# Build output
+build/
+.jarstage/
+tmp/
+dist/*.exe
+dist/lib/
+*.class
+
+# IDE
+.vscode/
+.idea/
+nbproject/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+db.properties
+
+# Downloads / temp
+curl_response
+win_jre.zip
+AppBundle.jar
+PimsApp.java
+PimsApp.class
+
+# Launch4j backups
+*.exe.bak

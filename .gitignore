@@ -30,3 +30,7 @@ PimsApp.class
 
 # Launch4j backups
 *.exe.bak
+
+# Submission-only files (in zip, not in git)
+repo_link.txt
+*.pdf
